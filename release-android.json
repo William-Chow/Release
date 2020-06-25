@@ -1,0 +1,11 @@
+{
+	"version": "2.0.75",
+	"releaseNotes": {
+		"1": "- Page UI revision, this brand upgrade is to establish a more distinct brand image, we will as always with better services to repay the long-term support of the majority of users - Single note, serial close and other betting interaction details optimization, betting process more smooth and convenient. - Add sharing APP function - Several operational performance optimizations - Optimize the domain name loading strategy for faster loading",
+		"2": "- 页面UI改版,此次品牌升级为的是建立更鲜明的品牌形象,我们也将一如既往的用更好的服务回馈广大用户的长久支持 - 单注、串关等投注交互细节优化,投注流程更顺畅便捷。 - 添加分享APP功能 - 若干运行性能优化 - 优化域名加载策略让加载速度更快",
+		"6": "- หน้า UI ได้รับการแก้ไขแล้วการอัปเกรดแบรนด์ในครั้งนี้คือการสร้างภาพลักษณ์ที่โดดเด่นยิ่งขึ้นและเราจะให้บริการที่ดีกว่าเพื่อตอบแทนผู้ใช้ของเราในระยะยาว - การเพิ่มรายละเอียดการโต้ตอบการเดิมพันเช่นการเดิมพันเดี่ยวและการตรวจสอบแบบข้ามทำให้กระบวนการเดิมพันราบรื่นและสะดวกยิ่งขึ้น - เพิ่มฟังก์ชั่น APP - การเพิ่มประสิทธิภาพการปฏิบัติงานหลายอย่าง - เพิ่มประสิทธิภาพกลยุทธ์การโหลดชื่อโดเมนเพื่อให้การโหลดเร็วขึ้น",
+		"7": "- Giao diện người dùng trang đã được sửa đổi. Lần nâng cấp thương hiệu Lần này là để thiết lập một hình ảnh thương hiệu đặc biệt hơn và, như mọi khi, chúng tôi sẽ cung cấp dịch vụ tốt hơn để hỗ trợ người dùng lâu dài. - Tối ưu hóa các chi tiết tương tác cá cược như cá cược đơn và kiểm tra chéo, giúp quá trình đặt cược suôn sẻ và thuận tiện hơn. -Thêm chức năng chia sẻ APP -Tối ưu hóa hiệu suất hoạt động của mọi người - Chiến lược tải tên miền tối ưu hóa để tải nhanh hơn",
+		"8": "-Halaman UI telah direvisi. Peningkatan merek kali ini adalah untuk membangun citra merek yang lebih khas, dan kami akan, seperti biasa, memberikan layanan yang lebih baik untuk memberikan kembali dukungan jangka panjang dari pengguna kami. -Optimasi detail interaksi taruhan seperti taruhan tunggal dan pemeriksaan silang, membuat proses taruhan lebih lancar dan nyaman. -Tambahkan fungsi aplikasi APP -Beberapa Optimasi kinerja operasional -Optimasi strategi pemuatan nama domain untuk membuat pemuatan lebih cepat"
+	},
+	"build": "69"
+}
